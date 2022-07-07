@@ -40,6 +40,7 @@ main{
 }
 
 nav{
+  width: 100%;
   background-color: #CECCB4;
   box-shadow: 2px 2px 10px #37352F;
 }
